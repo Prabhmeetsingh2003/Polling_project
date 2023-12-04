@@ -1,0 +1,172 @@
+ 
+.mainn {
+    background-color: black;
+ 
+    height: 100vh;
+}
+ 
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 520px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+ 
+.footer {
+    display: none; 
+}
+ 
+.order {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin-right: 2vh;
+    width: 100%;
+}
+
+ 
+.poll-box {.app-main {
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+ 
+.app-intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 520px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+ 
+.app-footer {
+    display: none;  
+}
+
+ 
+.app-order {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin-right: 2vh;
+    width: 100%;
+}
+ 
+.app-poll-box {
+    background-color: white;
+    margin: 5vh;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 60vh;
+    height: 50vh;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+}
+    background-color: white;
+    margin: 5vh;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 40vh;
+    height: 30vh;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.app-main1 {
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.app-tag{
+    color: white;
+     
+}
+ 
+.app-intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 520px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+ 
+.app-footer {
+    display: none;  
+}
+ 
+.app-order {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin-right: 2vh;
+    width: 100%;
+}
+ 
+.app-poll-box {
+    background-color: white;
+    margin-left: 5vh;
+    margin-top: 1vh;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 40vh;
+    height: 36vh;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    position: relative;
+}
+
+.app-poll-box ul {
+    list-style: none;  
+    padding: 0; 
+    margin: 0;  
+}
+
+ 
+
+.delete-icon:hover {
+  color: #ff5555;
+}
+.view-result-button{
+    margin-top: 1vh;
+}
+
+.voting-container{
+    width: 70vh;
+    height: 65vh;
+    background-color: white;
+    border-radius: 5px;
+ 
+}
+
+.options_main3{
+    margin-top: 0.2vh;
+    background-color: white;
+    width: 50vh;
+    height: 6vh;
+    border-radius: 5px;
+    margin-left: 15%;
+}
+
+.text_main3{
+    margin-left: 20%;
+}
+
+.heading_main3{
+    margin-left: 40%;
+}

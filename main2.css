@@ -1,0 +1,175 @@
+ 
+.mainn {
+    background-color: black;
+ 
+    height: 100vh;
+}
+
+ 
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 520px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+ 
+.footer {
+    display: none; 
+}
+ 
+.order {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin-right: 2vh;
+    width: 100%;
+}
+
+ 
+.poll-box {.app-main {
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ 
+.app-intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 520px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+ 
+.app-footer {
+    display: none;  
+}
+ 
+.app-order {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin-right: 2vh;
+    width: 100%;
+}
+
+ 
+.app-poll-box {
+    background-color: white;
+    margin: 5vh;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 60vh;
+    height: 50vh;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+}
+    background-color: white;
+    margin: 5vh;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 40vh;
+    height: 30vh;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.app-main1 {
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.app-tag{
+    color: white;
+}
+/* Remove the background image styles */
+.app-intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 520px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Remove the footer styles */
+.app-footer {
+    display: none; /* Hide the footer */
+}
+
+/* Updated CSS for .app-order */
+.app-order {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin-right: 2vh;
+    width: 100%;
+}
+
+/* Updated CSS for .app-poll-box */
+.app-poll-box {
+    background-color: white;
+    margin-left: 5vh;
+    margin-top: 1vh;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 40vh;
+    height: 36vh;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    position: relative;
+}
+
+.app-poll-box ul {
+    list-style: none; /* Remove bullets */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+}
+
+ 
+
+.delete-icon:hover {
+  color: #ff5555;
+}
+.view-result-button{
+    margin-top: 1vh;
+}
+
+.poll-css {
+    background-color: #f0f0f0;  
+    width: 30vh;
+    height: 39vh;
+    padding: 10px; 
+    border-radius: 8px;  
+    margin: 8px;  
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    margin-left: 20px;
+}
+
+.link_main2{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: black;
+    display: flex;
+    text-decoration: none;
+    width: 14vh;
+    align-items: center;
+    justify-content: center;
+}
+
