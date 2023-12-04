@@ -1,0 +1,22 @@
+[
+    {
+      "title": "Sample Poll 1",
+      "numOptions": 2,
+      "optionNames": ["Option 1", "Option 2"]
+    },
+    {
+      "title": "Sample Poll 2",
+      "numOptions": 3,
+      "optionNames": ["Option A", "Option B", "Option D"]
+    }
+    ,
+    {
+      "title": "Sample Poll 3",
+      "numOptions": 3,
+      "optionNames": ["Option 1", "Option 2", "Option 3"]
+    }
+    
+    
+]
+  
+ 

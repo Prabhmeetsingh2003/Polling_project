@@ -1,0 +1,93 @@
+.bg{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://png.pngtree.com/thumb_back/fw800/background/20221216/pngtree-working-bench-top-view-study-mock-laptop-photo-image_20886302.jpg') no-repeat;
+    height: 99vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    display: inline-block;
+    margin-left: 5vh;
+    margin-right: 10px;
+    color: white;
+    font-family: 'Courgette', cursive;
+}
+
+i {
+    display: inline-block;
+}
+
+.navbar {
+    display: inline-block;
+    margin-left: 55vh;
+    margin-top: 0vh;
+}
+
+.list {
+    list-style: none;
+    display: inline-block;
+}
+
+.atag1 {
+    text-decoration: none;
+    margin-left: 6vh;
+    color: aliceblue;
+    font-size: 17px;
+    margin-right: 0vh;
+}
+
+.atag1:hover {
+    color: antiquewhite;
+}
+
+.login-box {
+    height: 70vh;
+    width: 75vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+    display: flex;
+    border-radius: 15px;
+    text-align: center;
+    flex-direction: column;
+    margin: auto;
+    position: relative;
+}
+
+.login-heading {
+    color: white;
+    font-size: 40px;
+    margin-bottom: 0vh;
+}
+
+input::placeholder {
+    color: white;
+}
+
+.input1 {
+    height: 25px;
+    width: 300px;
+    text-align: left;
+    margin-top: 10px;
+    display: block;
+    margin-left:7vh;
+    margin-right: 7vh;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px 45px 10px 10px;
+    color: white;
+}
+
+.submit {
+    display: flex;
+    margin-top: 58vh;
+    align-items: center;
+    justify-content: center;
+    margin-left: 13vh;
+    height: 6vh;
+    width: 300px;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    border-radius: 20px;
+    max-width: 300px;
+    min-width: 50px;
+}
